@@ -1,0 +1,20 @@
+[
+    {
+        "name": "John Smith",
+        "email": "john123@gmail.com",
+        "subject": "Testing",
+        "message": "Testing 123"
+    },
+    {
+        "name": "Jacob Smith",
+        "email": "jacob01@gmail.com",
+        "subject": "Question regarding booking",
+        "message": "I have a question."
+    },
+    {
+        "name": "Thomas Smith",
+        "email": "thomas123@gmail.com",
+        "subject": "Question ",
+        "message": "Testing"
+    }
+]
