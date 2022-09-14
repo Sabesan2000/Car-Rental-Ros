@@ -8,4 +8,8 @@ Steps on Running the Application
 6. Once the local server is connected, apply the directory to where the folder is saved and access the registration.php (localhost/carRental/registration.php).
 7. Enter your credentials, and you will be taken to the login page for confirmation.
 8. After logging in successfully, you will be taken to the home page.
+
+
+
+
 Feedback.JSON file is located under the 'forms' folder
